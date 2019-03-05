@@ -64,17 +64,17 @@
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
-      <div class="post-preview">
+      <div id='center' class="post-preview">
           <form action="{% url 'count' %}">
             <br>
-            <h1><p align="middle">문장은 <!--총단어수-->{{ total }} 단어로 구성되어 있습니다.</p></h1>
+            <h1 align="middle">문장은 <!--총단어수-->{{ total }} 단어로 구성되어 있습니다.</h1>
                 <br>
-                <h1><p align="middle">입력한 문장</p></h1>
+                <h1 align="middle">입력한 문장</h1>
                 <!-- 입력받는 전체 텍스트 -->
                 <p align="middle">{{ fulltext }}</p>
                 <br>
                 
-                <h1><p align="middle">단어 개수</p></h1>
+                <h1 align="middle">단어 개수</h1>
                 <!-- '단어' - '단어나온 횟수' -->
                 <!-- 파이썬 for문 사용 -->
                 {% for word, countTotal in dictionary %}
@@ -82,7 +82,7 @@
                 {% endfor %}
                 <br>
 
-                <p align="middle"><a href="{% url 'index' %}"><input class="btn btn-primary" value="Retry"/></a></p>
+                <a href="{% url 'index' %}"><p align="middle"><input class="btn btn-primary" value="Retry"/></p></a>
             <br>
         </form>
       </div>
