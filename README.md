@@ -12,4 +12,4 @@
 #### 스크린샷
 ![firstassignment1_](https://user-images.githubusercontent.com/22811639/53854060-536d4a00-400b-11e9-9c14-8b014684302f.png)
 
-![firstassignment_](https://user-images.githubusercontent.com/22811639/53854054-4e0fff80-400b-11e9-819e-fa037ae329f4.png)
+![firstassignment_](https://user-images.githubusercontent.com/22811639/53854344-75b39780-400c-11e9-9198-b29806258200.png)
