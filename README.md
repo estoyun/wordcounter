@@ -1,15 +1,15 @@
 # wordcounter
 
 ### 작품 개요
-  - Likelion first assignment
-  - 입력받은 문장의 단어를 세는 wordcounter 기능
-  - 'Simple is the best'에 입각한 디자인
+    - Likelion first assignment
+    - 입력받은 문장의 단어를 세는 wordcounter 기능
+    - 'Simple is the best'에 입각한 디자인
 
 ### 기술스택
-  - Django
-  - Python
-  - Bootstrap Theme
-  - Plain HTML/CSS/js
+    - Django
+    - Python
+    - Bootstrap Theme
+    - Plain HTML/CSS/js
 
 #### 스크린샷
 
